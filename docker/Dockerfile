@@ -1,4 +1,4 @@
-FROM python:3.7.9-alpine3.12
+FROM python:3.15-rc-slim-trixie
 
 ARG VERSION
 ENV VERSION master
